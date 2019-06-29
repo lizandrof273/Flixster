@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         client = new AsyncHttpClient();
         movies = new ArrayList<>();
-        getConfiguration();//TODO what is this
+        getConfiguration();
         adapter = new MovieAdapter(movies);
 
         rvMovies = (RecyclerView) findViewById(R.id.rvMovies);
