@@ -37,7 +37,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This app was challing in the constraint layout part but I feel like I have improved my skills using it now. I had some strange problems with android studio but I had lots of support from my group.
 
 ## Open-source libraries used
 
